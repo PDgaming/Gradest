@@ -317,7 +317,7 @@
             <img src="https://placehold.co/30x30" alt="PD Enterprise logo">
             PD Enterprise
         </h3>
-        <p>© 2023 PD Enterprise. All rights reserved.</p>
+        <p>© 2024 PD Enterprise. All rights reserved.</p>
     </div>
     <div>
         <h3>Services</h3>
