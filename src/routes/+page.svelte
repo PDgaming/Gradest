@@ -1,11 +1,13 @@
 <script>
-    // Add any interactivity or logic here if needed.
+    //*put if there is i am tired
 </script>
 
-<style>
-    @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
-    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Montserrat:wght@400;700&family=Poppins:wght@400;700&display=swap');
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Montserrat:wght@400;700&family=Poppins:wght@400;700&display=swap">
+</head>
 
+<style>
     body {
         margin: 0;
         font-family: 'Poppins', sans-serif;
@@ -28,19 +30,18 @@
         font-weight: 700;
     }
 
-    .navbar button {
+    .nav-button {
         background-color: #444;
         color: white;
-        border: none;
+        text-decoration: none;
         padding: 10px 20px;
-        cursor: pointer;
         margin-left: 10px;
         border-radius: 5px;
         transition: background-color 0.3s ease;
         font-family: 'Poppins', sans-serif;
     }
 
-    .navbar button:hover {
+    .nav-button:hover {
         background-color: #666;
     }
 
@@ -263,17 +264,17 @@
 
 <div class="navbar">
     <h1>Cnotes</h1>
-    <div>
-        <button>Home</button>
-        <button>Login</button>
-        <button>Register</button>
+    <div> 
+    <a href="/" class="nav-button">Home</a>
+    <a href="/login" class="nav-button">Login</a>
+    <a href="/register" class="nav-button">Register</a>
     </div>
 </div>
 <div class="hero">
-    <h2 class="lft">Cnotes</h2>
+    <h2 class="lft">CNotes</h2>
     <p>Your personal notes, organized and accessible anywhere. Start your journey now by logging in or creating an account.</p>
-    <button>Login</button>
-    <button>Register</button>
+    <a href="/login" class="nav-button">Login</a>
+    <a href="/register" class="nav-button">Register</a>
 </div>
 <div class="features">
     <div class="feature">
@@ -309,7 +310,7 @@
 <div class="contact">
     <h2>Contact us!</h2>
     <p>Have questions, need assistance, or want to share feedback? We'd love to hear from you! Reach out anytime.</p>
-    <button>Contact us</button>
+    <a href="/contactus" class="nav-button">Contact us</a>
 </div>
 <div class="footer">
     <div>
@@ -338,3 +339,6 @@
         <i class="fab fa-linkedin"></i>
     </div>
 </div>
+
+
+
