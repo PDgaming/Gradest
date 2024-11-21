@@ -263,7 +263,7 @@
 </style>
 
 <div class="navbar">
-    <h1>Cnotes</h1>
+    <h1>Gradest</h1>
     <div> 
     <a href="/" class="nav-button">Home</a>
     <a href="/login" class="nav-button">Login</a>
@@ -271,39 +271,39 @@
     </div>
 </div>
 <div class="hero">
-    <h2 class="lft">CNotes</h2>
-    <p>Your personal notes, organized and accessible anywhere. Start your journey now by logging in or creating an account.</p>
+    <h2 class="lft">Gradest</h2>
+    <p>A smart test preparation app for Indian students, offering personalized tests, instant feedback, and performance tracking. Start your journey now by logging in or creating an account.</p>
     <a href="/login" class="nav-button">Login</a>
     <a href="/register" class="nav-button">Register</a>
 </div>
 <div class="features">
     <div class="feature">
-        <h3>Easy to use</h3>
-        <p>Create, organize, and access your notes with ease. Our intuitive interface makes note-taking a breeze.</p>
+        <h3>Personalized Test Creation</h3>
+        <p>Create custom tests based on specific subjects, topics, difficulty levels, and exam patterns (CBSE, ICSE, State Boards, JEE, NEET, etc.)..</p>
     </div>
     <div class="feature">
-        <h3>Cloud Storage</h3>
-        <p>Access your notes from anywhere, on any device. Your notes are securely stored in the cloud and always available offline.</p>
+        <h3>Offline Test Mode</h3>
+        <p>Download tests for offline use and sync results once reconnected to the internet.</p>
     </div>
     <div class="feature">
-        <h3>Note Sharing</h3>
-        <p>Easily share notes with others. Collaborate and share ideas seamlessly among team members.</p>
+        <h3>Parental Dashboard</h3>
+        <p>Dedicated portal for parents to track their child’s performance and progress..</p>
     </div>
 </div>
 <div class="questions">
     <h2>Got Questions?</h2>
     <div class="question-items">
         <div class="question-item">
-            <h3>What is CNotes?</h3>
-            <p>CNotes is a note-taking application that allows you to create, organize, and access your notes from anywhere.</p>
+            <h3>What is Gradest?</h3>
+            <p>Gradest is a sample test paper app for Indian students, offering personalized tests, pre-designed papers, instant evaluation, and performance tracking to help prepare for exams like CBSE, ICSE, JEE, and NEET..</p>
         </div>
         <div class="question-item">
-            <h3>Is my data safe on CNotes?</h3>
-            <p>Yes, your data is securely stored in the cloud and encrypted to ensure your notes are safe and private.</p>
+            <h3>Can I use Gradest offline?</h3>
+            <p>Yes, Gradest supports offline test mode. You can download tests and sync your results later when online.</p>
         </div>
         <div class="question-item">
-            <h3>How do I share notes?</h3>
-            <p>You can share notes by clicking the share button and sending the link to your collaborators.</p>
+            <h3>Is Gradest free to use?</h3>
+            <p>Gradest offers a mix of free content and affordable subscription plans with premium features.</p>
         </div>
     </div>
 </div>
